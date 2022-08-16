@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    background-color: #00FFAB;
+}
+
+h1 {
+    font-size: 4rem;
+    color: #E8F9FD;
+    text-shadow: 3px 0 #000000
+}
+
+footer {
+    color: black;
+    font-style: italic;
+}
+
+
+/* button bacground image need to be added */
+
+
+/* .a{
+    background-image:none
+} */
+
+.set {
+    margin: 10% auto;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #0b6fe2;
+    opacity: 0.5;
+}
+
+.tabla {
+    outline: none;
+    border: 5px solid #000000;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #0fe64f;
+    text-shadow: 3px 0 #e61708;
+    border-radius: 50px;
+    display: inline-block;
+    width: 140px;
+    height: 140px;
+    text-align: center;
+    margin: 10px;
+}
+
+.developer {
+    color: #E8F9FD;
+    font-family: 'Arvo', cursive;
+    text-align: center;
+}
